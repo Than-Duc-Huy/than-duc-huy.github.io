@@ -7,8 +7,8 @@
 
 # Resume (2023)
 
-- [Words](https://1drv.ms/w/s!Almk15fqflie1zV5dG7D5zYco-WW?e=bqAt25)
-- [PDF]()
+- [Words](./download/Than%20Duc%20Huy%20Resume%202023.docx)
+- [PDF](./download/Than%20Duc%20Huy%20Resume%202023.pdf)
 
 # Projects
 
