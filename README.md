@@ -5,7 +5,7 @@
 - **Mobile**: +65 8642 5472
 - [LinkedIn](https://www.linkedin.com/in/huy-than-duc-5738b4191/)
 
-# Resume (2023)
+# Resume
 
 - [Word](./download/Than%20Duc%20Huy%20Resume%202023.docx)
 - [PDF](./download/Than%20Duc%20Huy%20Resume%202023.pdf)
