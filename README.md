@@ -7,7 +7,7 @@
 
 # Resume (2023)
 
-- [Words](./download/Than%20Duc%20Huy%20Resume%202023.docx)
+- [Word](./download/Than%20Duc%20Huy%20Resume%202023.docx)
 - [PDF](./download/Than%20Duc%20Huy%20Resume%202023.pdf)
 
 # Projects
