@@ -1,56 +1,44 @@
-# Chirpy Starter
+# Contact
 
-[![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)][gem]&nbsp;
-[![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]
+- **School email**: [duchuy001@e.ntu.edu.sg](mailto:duchuy001@e.ntu.edu.sg)
+- **Personal email**: [than_duc_huy@outlook.com](mailto:than_duc_huy@outlook.com)
+- **Mobile**: +65 8642 5472
+- [LinkedIn](https://www.linkedin.com/in/huy-than-duc-5738b4191/)
 
-When installing the [**Chirpy**][chirpy] theme through [RubyGems.org][gem], Jekyll can only read files in the folders
-`_data`, `_layouts`, `_includes`, `_sass` and `assets`, as well as a small part of options of the `_config.yml` file
-from the theme's gem. If you have ever installed this theme gem, you can use the command
-`bundle info --path jekyll-theme-chirpy` to locate these files.
+# Resume
 
-The Jekyll team claims that this is to leave the ball in the user’s court, but this also results in users not being
-able to enjoy the out-of-the-box experience when using feature-rich themes.
+- [Word](./download/Than%20Duc%20Huy%20Resume%202023.docx)
+- [PDF](./download/Than%20Duc%20Huy%20Resume%202023.pdf)
 
-To fully use all the features of **Chirpy**, you need to copy the other critical files from the theme's gem to your
-Jekyll site. The following is a list of targets:
+# Projects
 
-```shell
-.
-├── _config.yml
-├── _plugins
-├── _tabs
-└── index.html
-```
+### King's College London Gelsight Fabrication
 
-To save you time, and also in case you lose some files while copying, we extract those files/configurations of the
-latest version of the **Chirpy** theme and the [CD][CD] workflow to here, so that you can start writing in minutes.
+- [Github Repository](https://github.com/Than-Duc-Huy/GelsightKCL)
 
-## Prerequisites
+### Recipe Management App
 
-Follow the instructions in the [Jekyll Docs](https://jekyllrb.com/docs/installation/) to complete the installation of
-the basic environment. [Git](https://git-scm.com/) also needs to be installed.
+- [Github Repository](https://github.com/AY2223S1-CS2113-T18-2/tp)
 
-## Installation
+### 6DOF Stewart Platform with Linear Actuator
 
-Sign in to GitHub and [**use this template**][use-template] to generate a brand new repository and name it
-`USERNAME.github.io`, where `USERNAME` represents your GitHub username.
+- [Photos](./subpages/6dof_stewart.md)
 
-Then clone it to your local machine and run:
+### 6DOF Controller for Robotic Arm Control
 
-```console
-$ bundle
-```
+- [Photos](./subpages/6dof_controller.md)
 
-## Usage
+# Internship / Work Experience
 
-Please see the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy#documentation).
+- Institute for Infocomm Research (I2R), A\*STAR (2022-2023)
+  - Research Assistant: Gelsight tactile sensor for robotic grasping, Reinforcement Learning
 
-## License
+# Education
 
-This work is published under [MIT][mit] License.
-
-[gem]: https://rubygems.org/gems/jekyll-theme-chirpy
-[chirpy]: https://github.com/cotes2020/jekyll-theme-chirpy/
-[use-template]: https://github.com/cotes2020/chirpy-starter/generate
-[CD]: https://en.wikipedia.org/wiki/Continuous_deployment
-[mit]: https://github.com/cotes2020/chirpy-starter/blob/master/LICENSE
+- Nanyang Technological University (NTU), Singapore (2020-2024)
+  - Bachelor of Engineering (Electrical & Electronics Engineering)
+  - CN Yang Scholarship Recipient (Science & Research)
+- King's College London (KCL), United Kingdom (2023)
+  - Visiting Research Student
+- Hwa Chong Institution (2018-2019)
+  - A-Level
