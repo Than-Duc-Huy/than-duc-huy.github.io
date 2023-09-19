@@ -4,17 +4,18 @@
   icon: "fab fa-github"
   noblank: false
 
-# - type: twitter
-#   icon: "fa-brands fa-x-twitter"
+- type: linkedin
+  icon: "fab fa-linkedin" # icons powered by <https://fontawesome.com/>
+  url: "https://www.linkedin.com/in/than-duc-huy" # Fill with your Linkedin homepage
+  noblank: false
 
 - type: email
   icon: "fas fa-envelope"
   noblank: true # open link in current tab
 
-- type: linkedin
-  icon: "fab fa-linkedin" # icons powered by <https://fontawesome.com/>
-  url: "https://www.linkedin.com/in/than-duc-huy" # Fill with your Linkedin homepage
-  noblank: false
+# - type: twitter
+#   icon: "fa-brands fa-x-twitter"
+
 # - type: rss
 #   icon: "fas fa-rss"
 #   noblank: true
