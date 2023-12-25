@@ -17,6 +17,6 @@ I am interested in the advancement in Robotics, Machine Learning and their socia
 |Aug 2020 - Jun 2024| Bachelor in Electrical and Electronics Engineering (EEE) <br /> from [Nanyang Technological Univeristy (NTU), Singapore](https://www.ntu.edu.sg/)|
 |Jan 2024 - Jun 2024| Robot Algorithm Intern at [Augmentus Pte Ltd](https://www.augmentus.tech/) <br /> via [SG Innovate Deep Tech Summation Programme](https://www.sginnovate.com/apprenticeship/talent)|
 |May 2023 - July 2023| Research Intern (Robotics) at [I2R, A\*STAR](https://www.a-star.edu.sg/i2r)|
-|Dec 2022 - May 2023| Research Exchange at [King's College London (KCL), UK](https://www.kcl.ac.uk/)|
+|Dec 2022 - May 2023| Visiting Research Student (Robotics) <br /> at [King's College London (KCL), UK](https://www.kcl.ac.uk/)|
 |Jan 2020 - Aug 2020| Teaching Assistant at [Hwa Chong Institution (HCI), Singapore](https://www.hci.edu.sg/)|
 |Jan 2018 - Dec 2019| A Level at [Hwa Chong Institution (HCI), Singapore](https://www.hci.edu.sg/)|
