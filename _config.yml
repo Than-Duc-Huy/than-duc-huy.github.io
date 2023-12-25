@@ -83,7 +83,10 @@ avatar: /assets/img/main_photo.jpg
 toc: true
 
 comments:
-  active: disqus # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
+  active: # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
+
+  #active: disqus  # turn this off when needed
+
   # The active options are as follows:
   disqus:
     shortname: than-duc-huy-github-io
