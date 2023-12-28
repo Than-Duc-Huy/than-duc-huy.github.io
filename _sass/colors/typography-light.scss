@@ -120,8 +120,14 @@
 
   /* Archive */
   --timeline-color: rgba(0, 0, 0, 0.075);
-  --timeline-node-bg: #c2c6cc;
+  --timeline-node-bg: #aaaaaa;
   --timeline-year-dot-color: #ffffff;
+
+  #archives li:nth-child(odd) {
+    background-image: linear-gradient(to left,
+        #f5f5f5,
+        #f5f5f5);
+  }
 }
 
 /* light-scheme */
