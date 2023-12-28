@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 1
 ---
 
-I am interested in the development of Robotics, Machine Learning technologies and their social implications in our society.
+I am interested in the development of Robotics, Machine Learning and their social implications in our society.
 
 # Contact
 
