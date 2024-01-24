@@ -12,4 +12,4 @@ My current blog is under construction! I want to share my projects and thoughts 
 
 Thank you for your understanding!
 
-In the meantime, heck out my [About Me](../about) page for my resume.
+In the meantime, check out my [About Me](../about) page for my resume.
