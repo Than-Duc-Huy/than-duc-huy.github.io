@@ -10,6 +10,6 @@ mermaid: true
 
 My current blog is under construction! I want to share my projects and thoughts but it takes time! 
 
-**Thank you for your understanding!** 
+Thank you for your understanding!
 
-In the meantime, do check out my [About Me](../about) page
+In the meantime, heck out my [About Me](../about) page for my resume.
