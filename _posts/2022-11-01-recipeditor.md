@@ -1,5 +1,5 @@
 ---
-title: "Project: Recipe Editor Application"
+title: "Recipe Editor Application"
 date: 2022-11-01 8:00:00 +0800
 categories: [Project]
 tags: [software]
