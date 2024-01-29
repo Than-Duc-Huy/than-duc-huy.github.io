@@ -7,7 +7,7 @@ pin: false
 math: false
 mermaid: false
 image:
-  path: /assets/img_post/2022-11-01-recipeditor/main.jpg
+  path: /assets/img_post/recipeditor/main.jpg
 ---
 
 ## Project Description
