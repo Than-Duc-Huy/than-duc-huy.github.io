@@ -6,6 +6,8 @@ order: 1
 
 I am interested in the development of Robotics, Machine Learning and their social implications in our society.
 
+[**>> Introduction Slides <<**](https://than-duc-huy.github.io/intro)
+
 # Contact
 
 | **Phone** | +65 8642 5472 |
