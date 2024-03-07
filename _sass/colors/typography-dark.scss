@@ -165,6 +165,23 @@
   #disqus_thread {
     color-scheme: none;
   }
+
+
+  em {
+    color:rgb(200, 255, 0);
+    font-style: normal;
+  }
+
+
+  blockquote {
+    background: #0f0f0f;
+    border-left: 5px solid var(--accent);
+    margin: 1.5em 10px;
+    padding: 0.5em 10px;
+  }
+
+
 }
+
 
 /* dark-scheme */
